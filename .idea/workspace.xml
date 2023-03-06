@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30c7a2b0-d601-4ad5-8de8-394545a80fe9" name="默认变更列表" comment="补全前端功能代码">
+    <list default="true" id="30c7a2b0-d601-4ad5-8de8-394545a80fe9" name="默认变更列表" comment="增加需要扫描的配置文件">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/utils/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/utils/ProjectExceptionAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/utils/SystemException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/config/SpringMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/config/SpringMvcConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/service/impl/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/utils/BizCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/utils/BizCode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,12 +50,15 @@
     </option>
   </component>
   <component name="ProjectId" id="2MUTJxLhC54Dbs4pXeMKJswcsYG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -218,7 +227,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677821094502</updated>
       <workItem from="1677821096613" duration="4101000" />
-      <workItem from="1678067566363" duration="16111000" />
+      <workItem from="1678067566363" duration="19329000" />
     </task>
     <task id="LOCAL-00001" summary="补全前端功能代码">
       <created>1678089130125</created>
@@ -227,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678089130125</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加需要扫描的配置文件">
+      <created>1678090599344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678090599344</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +262,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="补全前端功能代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="补全前端功能代码" />
+    <MESSAGE value="增加需要扫描的配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加需要扫描的配置文件" />
   </component>
 </project>
