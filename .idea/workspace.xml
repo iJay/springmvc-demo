@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30c7a2b0-d601-4ad5-8de8-394545a80fe9" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="30c7a2b0-d601-4ad5-8de8-394545a80fe9" name="默认变更列表" comment="补全前端功能代码">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/config/SpringMvcSupport.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/config/SpringMvcSupport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/service/impl/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo03-ssm/src/main/webapp/pages/books.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo03-ssm/src/main/webapp/pages/books.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/config/SpringMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/config/SpringMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo03-ssm/src/main/java/org/example/controller/BookController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <recent name="C:\Users\hblx2\Desktop\myDoc\springmvc\springmvc-demo\demo01-quickstart\src\main\webapp" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BookServiceTest.testGetAll">
+  <component name="RunManager" selected="Maven.demo03-ssm">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -220,8 +218,16 @@
       <option name="presentableId" value="Default" />
       <updated>1677821094502</updated>
       <workItem from="1677821096613" duration="4101000" />
-      <workItem from="1678067566363" duration="14751000" />
+      <workItem from="1678067566363" duration="16111000" />
     </task>
+    <task id="LOCAL-00001" summary="补全前端功能代码">
+      <created>1678089130125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678089130125</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,5 +243,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="补全前端功能代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="补全前端功能代码" />
   </component>
 </project>
