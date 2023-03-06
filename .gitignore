@@ -1,0 +1,4 @@
+# 项目排除路径
+/demo01-quickstart/target/
+/demo02-book-case/target/
+/demo03-ssm/target/
