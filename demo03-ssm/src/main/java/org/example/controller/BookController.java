@@ -37,7 +37,7 @@ public class BookController {
     @GetMapping("/{id}")
     public ResponseResult getById(@PathVariable Integer id) {
         Book book = bookService.getById(id);
-        System.out.println( 10 / 0);
+        // System.out.println( 10 / 0);
         Integer code = book != null ? BizCode.GET_OK : BizCode.GET_ERR;
         String msg = book != null ? "" : "数据查询失败，请重试！";
         return new ResponseResult(code, book, msg);
